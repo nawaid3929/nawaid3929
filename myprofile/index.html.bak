@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Responsive One Page CV/Resume/Portfolio Template">
+    <!-- Page title -->
+    <title>Profile</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel='stylesheet' type='text/css'>
+    <!-- Font Awesome icon CSS -->
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- ET-Line icon CSS -->
+    <link href="etlinefont.css" rel="stylesheet" type="text/css">
+    <!-- Owl Carousel CSS -->
+    <link href="owl.carousel.css" rel="stylesheet">
+    <!-- Animate CSS -->
+    <link href="animate.css" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <!-- Main Style CSS -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <div id="home"></div>
+    <!-- Preloader -->
+    <div class="preloader-area">
+        <div class="spinner">
+            <div class="double-bounce1"></div>
+            <div class="double-bounce2"></div>
+        </div>
+    </div>
+    <!-- End preloader -->
+
+    <!-- Header -->
+    <header>
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <!-- Start Logo -->
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="#home">Profile</a>
+                </div>
+                <!-- End Logo -->
+
+                <!-- Navbar-collapse -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a href="#home"></a>
+                        </li>
+                        <li><a class="page-scroll" href="#about">About</a></li>
+                        <li><a class="page-scroll" href="#skills">Skills</a></li>
+                        <li style="display:none;"><a class="page-scroll" href="#services">Services</a></li>
+                        <li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+                        <li><a class="page-scroll" href="#resume">Work Experience</a></li>
+                        <li><a class="page-scroll" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <!-- End Navbar-collapse -->
+            </div>
+        </nav>
+        <!-- End Navigation -->
+    </header>
+    <!-- End Header -->
+
+    <!-- Welcome area -->
+    <div class="welcome-area">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="intro-text-area wow fadeInDown">
+                <div class="intro-text">Welcome to my site!</div>
+                <div class="type-text">
+                    <div id="typed-strings">
+                        <h1>Hi, I am Nawaidur Rahman</h1>
+                        <p>I am a SharePoint Developer</p>
+                        <p>I have 5+ Years of Experience in IT Industry</p>
+                    </div>
+                    <span id="typed" style="white-space:pre;"></span>
+                </div>
+                <a href="#about" class="page-scroll btn btn-white">More About Me</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Welcome area -->
+
+   <!-- About Section -->
+    <section id="about" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">About me</h2>
+                    <h3 class="section-subheading text-muted" style="display:none;"></h3>
+                </div>
+			</div>
+			<div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 text-center media wow zoomIn">
+                    <img alt="" class="img-circle img-me" src="nawaid.png">
+                </div>
+			
+                <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 media">
+                    <h3 class="name">Nawaidur Rahman</h3>
+                    <h4 class="font-thin">SharePoint Developer</h4>
+                    
+					<p class="text-muted">Experienced SharePoint developer with a history of delivering strong results. Creative thinker with a solution-oriented approach. Effective communicator and listener who excels at understanding and defining goals. Proficient in SharePoint Online and On-Prim. Good understanding of business needs and goals for development. Meticulous work ethic combines with out-of-the-box approach for consistently excellent results. Enthusiastic team player who coordinates with other developers for effective project completion. Proven track record of completing projects on time and staying within budgetary guidelines.</p>
+                    
+                    <a class="download-resume-btn btn btn-blue wow bounce" role="button" href="#" style="display:none">Download Resume</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- End About Section -->
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">Skills</h2>                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-6 skillsArea">
+                    <div class="skills"> <span data-percent="70" class="chart skill-bg"> <span class="percent">90</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>SPFx React JS</h4>
+                    </div>
+                </div>
+		    
+                <div class="col-md-2 col-sm-6 skillsArea">
+                    <div class="skills"> <span data-percent="80" class="chart skill-bg"> <span class="percent">80</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>JavaScript</h4>
+                    </div>
+                </div>
+		<div class="col-md-2 col-sm-6 skillsArea">
+                    <div class="skills"> <span data-percent="95" class="chart skill-bg"> <span class="percent">95</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>Jquery</h4>
+                    </div>
+                </div>
+                
+                <div class="col-md-2 col-sm-6 skillsArea">
+                    <div class="skills"> <span data-percent="50" class="chart skill-bg"> <span class="percent">50</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>.NET</h4>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-6 skillsArea">
+                    <div class="skills"> <span data-percent="60" class="chart skill-bg"> <span class="percent">60</span>
+                        <canvas height="152" width="152"></canvas>
+                        </span>
+                        <h4>ASP.NET</h4>
+                    </div>
+                </div>
+
+
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="80" class="chart skill-bg"> <span class="percent">80</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>Power Automate</h4>
+									</div>
+								</div>
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="65" class="chart skill-bg"> <span class="percent">65</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>PowerApps</h4>
+									</div>
+								</div>
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="60" class="chart skill-bg"> <span class="percent">60</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>Power BI</h4>
+									</div>
+								</div>
+
+
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="90" class="chart skill-bg"> <span class="percent">90</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>REST api</h4>
+									</div>
+								</div>
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="35" class="chart skill-bg"> <span class="percent">35</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>Azure</h4>
+									</div>
+								</div>
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="95" class="chart skill-bg"> <span class="percent">95</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>HTML5</h4>
+									</div>
+								</div>
+				<div class="col-md-2 col-sm-6 skillsArea">
+									<div class="skills"> <span data-percent="92" class="chart skill-bg"> <span class="percent">92</span>
+										<canvas height="152" width="152"></canvas>
+										</span>
+										<h4>CSS3</h4>
+									</div>
+								</div>
+				
+            </div>
+        </div>
+    </section>
+    <!-- End Skills Section -->
+
+    <!-- Status Section -->
+    <section id="status" class="section-padding">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-sm-4 col-xs-4 single-status">
+                    <i class="fa fa-briefcase fa-3x"></i>
+                    <h2 class="counter">30</h2>
+                    <p>Projects Done</p>
+                </div>
+                <div class="col-sm-4 col-xs-4 single-status">
+                    <i class="fa fa-clock-o fa-3x"></i>
+                    <h2 class="counter">5</h2>
+                    <p>Year of Experience</p>
+                </div>                
+                <div class="col-sm-4 col-xs-4 single-status">
+                    <i class="fa fa-smile-o fa-3x"></i>
+                    <h2 class="counter">15</h2>
+                    <p>Happy Clients</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Status Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="section-padding" style="display:none;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <div class="single-service">
+                        <span class="fa-stack fa-4x">
+                        <i class="icon-adjustments text-primary"></i>
+                        </span>
+                        <h4 class="service-heading">Web Develoment</h4>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id dolorem voluptatem deserunt assumenda.</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-service">
+                        <span class="fa-stack fa-4x">
+                        <i class="icon-paintbrush text-primary"></i>
+                        </span>
+                        <h4 class="service-heading">Web Design</h4>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id dolorem voluptatem deserunt assumenda.</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-service">
+                        <span class="fa-stack fa-4x">
+                        <i class="icon-tools text-primary"></i>
+                        </span>
+                        <h4 class="service-heading">Project Management</h4>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id dolorem voluptatem deserunt assumenda.</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="single-service">
+                        <span class="fa-stack fa-4x">
+                        <i class="icon-piechart text-primary"></i>
+                        </span>
+                        <h4 class="service-heading">Managment Software</h4>
+                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id dolorem voluptatem deserunt assumenda.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Services Section -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">Portfolio</h2>
+                    <h3 class="section-subheading text-muted" style="display:none;">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                </div>
+            </div>
+            <div class="row">
+			<div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/5.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>DMS</h4>
+                        <p class="text-muted">SharePoint Online</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/1.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Birla Portal and Safety Applications</h4>  
+						<p class="text-muted">SharePoint Online</p>						
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/2.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>IMS(Inventory Management System)</h4>
+                        <p class="text-muted">SharePoint Online</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/3.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>QCAA</h4>
+                        <p class="text-muted">SharePoint On-prim</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/4.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>HZL ZING</h4>
+                        <p class="text-muted">SharePoint On-prim</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Equipe Intranet Portal</h4>
+                        <p class="text-muted">SharePoint On-Prim</p>
+                    </div>
+                </div>
+		    
+		 <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-7" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>DMS</h4>
+                        <p class="text-muted">SharePoint Online</p>
+                    </div>
+                </div>
+		<div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-8" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>SRL Intranet Portal</h4>
+                        <p class="text-muted">SharePoint Online</p>
+                    </div>
+                </div>
+				
+		<div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolio-9" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Need For Approval (NFA)</h4>
+                        <p class="text-muted">SharePoint On-Prim</p>
+                    </div>
+                </div>   
+		    
+            </div>
+        </div>
+    </section>
+    <!-- End Portfolio Section -->
+
+    <!-- Portfolio Project 1 -->
+    <div class="portfolio-modal modal fade" id="portfolio-1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Birla Intranet Portal and Safety Applications</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">Birla Corp is an Intranet portal for enhancing employee collaboration on SharePoint Extensive using webparts. Intranet Portal which consist image gallery, employee information like birthday and awards,News, Events, etc. And Safety Applications consists of 5 Modules [Observations, Incidents,Audit,Meeting,Training]</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Birla Corporation Limited Mumbai.</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint online, jquery, Designer Workflow, REST API’s, Schedulers.</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 1 -->
+
+    <!-- Portfolio Project 2 -->
+    <div class="portfolio-modal modal fade" id="portfolio-2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>IMS (Inventory Management System)</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">IMS (Inventory Management System) is basically to maintain the Inventory Details of all the Products/Assets/Consumables items handled by Manav Energy.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Manav Energy Pvt Ltd.</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Online, jQuery, Designer Workflow, REST api.</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 2 -->
+
+    <!-- Portfolio Project 3 -->
+    <div class="portfolio-modal modal fade" id="portfolio-3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>QCAA.</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">Qatar Civil Aviation Authority (QCAA) is an official governmental institution recognized internally and externally responsible for civil aviation affairs and participates in policy development at the regional and international levels through its internal departments & units, and international organizations & associations of which it is a member.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Qatar Civil Aviation Authority</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Foundation 2013, Jquery/JavaScript, Rest api.</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer, Support.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 3 -->
+
+    <!-- Portfolio Project 4 -->
+    <div class="portfolio-modal modal fade" id="portfolio-4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+           <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>HZL ZING Portal</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">HZL ZING is an Intranet portal for enhancing employee collaboration on SharePoint Extensive using C#. Intranet Portal which consist image gallery, employee information like birthday and awards, News, Events, etc., link to our other application etc.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Hindustan Zinc Limited.</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint 2016, Designer WorkFlow, Jquery/JavaScript, REST API’s.</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer, Support.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 4 -->
+
+    <!-- Portfolio Project 5 -->
+    <div class="portfolio-modal modal fade" id="portfolio-5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>DMS</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">BUSCH is the pioneer in Vacuum Pumps having 12 sites internationally is looking for a centralized document repository to be accessed from the different location.One of the important requirements is about the security where documents uploaded into the repository/portal are highly secure and need to be encrypted and should not be allowed to view/copy/edit outside Bush environment. Documents types include Microsoft Supported files, PDF</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>BUSCH Vacuum Pumps and Systems</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Online, SPFX, MS Flows</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 5 -->
+
+    <!-- Portfolio Project 6 -->
+    <div class="portfolio-modal modal fade" id="portfolio-6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Equipe Intranet Portal.</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">Equipe is an Intranet portal for enhancing employee collaboration on SharePoint Extensive use of web-
+parts including Gallery, Employee Directory with ADSync, Custom Workflow for HR management and custom Master-Page with Bootstrap functionality etc.,</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Puravankara Pvt Ltd.</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Foundation 2013, Visual Studio 2013 with C# Coding.</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer, Support.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 6 -->
+	<!-- Portfolio Project 7 -->
+    <div class="portfolio-modal modal fade" id="portfolio-7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>DMS</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">Creating a Document Management System, this consists of 3 levels of Approvers. Once the document is approved need to take the E-sign(Adobe Sign) of the users based on the document.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Ashirvad Pipes Pvt Ltd, Banglore</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Online, Workflow, Adobe Sign Integration</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 7 -->
+	
+	<!-- Portfolio Project 8 -->
+    <div class="portfolio-modal modal fade" id="portfolio-8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>SRL – Diagnostics</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">SRL is an Intranet portal for enhancing employee collaboration on SharePoint online. Intranet Portal which consist image gallery, employee information like birthday and awards, News, Events, etc., link to our other application etc.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>SRL – Diagnostics</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint Online, Jquery/JavaScript</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 8 -->
+	
+	<!-- Portfolio Project 9 -->
+    <div class="portfolio-modal modal fade" id="portfolio-9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Need For Approval (NFA)</h2>
+                            <p class="item-intro text-muted"></p>
+                            <img class="img-responsive img-centered" src="../../perfectpixelweb.com/profile/assets/img/portfolio/6.jpg" alt="">
+                            <p style="text-align:initial;">NFA requests will be raised by the users based on the location wise. And it will go through the multilevel approvals based on the user selection.</p>
+                            <ul class="list-inline" style="text-align:justify;">
+                                <li>Client: <a>Zinc International, South Africa.</a></li>                                
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">
+                                <li>Technology: <a>SharePoint on-prim 2016, Jquery/JavaScript, Workflows, C#</a></li>
+                            </ul>
+							<ul class="list-inline" style="text-align:justify;">							  
+                                <li>Role: <a>Developer.</a></li>
+                            </ul>							
+                            <button type="button" class="btn btn-blue" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Project 9 -->
+
+    <!-- Hire me Section -->
+    <div id="hire-me" style='display:none;'>
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-9 wow fadeIn">
+                    <h2>I am currently available for Work</h2>
+                </div>
+                <div class="col-md-3">
+                    <a class="page-scroll btn btn-white2 wow bounceIn" href="#contact">Hire Me</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Hire me Section -->
+
+    <!-- Work Experience Section -->
+    <section id="resume" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">Work Experience</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="timeline">
+                        <!-- Exprience -->
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <span class="ico wow bounceIn">
+                                    <i class="fa fa-briefcase"></i>
+                                </span>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h2 class="subheading">Work Experience</h2>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">5+ years of IT development experience</p>
+                                </div>
+                            </div>
+                        </li>
+			<li>
+                            <div class="timeline-image">
+                                <h4>1 AUG 2018
+                                    <br>-
+                                    <br>Till-Date
+                                </h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>ENAVIYA INFORMATION TECHNOLOGY</h4>
+                                    <h4 class="subheading">Software Engineer</h4>
+                                </div>                                
+                            </div>
+                        </li>
+                         
+                        <li>
+                            <div class="timeline-image">
+                                <h4>22 MAY 2018
+                                    <br>-
+                                    <br>30 JULY 2018
+                                </h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>ENAVIYA INFORMATION TECHNOLOGY</h4>
+                                    <h4 class="subheading">Software Trainee(Apprenticeship)</h4>
+                                </div>                                
+                            </div>
+                        </li>
+                         
+                        <!-- End Exprience -->
+
+                        <!-- Education -->
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <span class="ico wow bounceIn">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </span>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h2 class="subheading">Education</h2>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Bachelor of Technology - BTech, Information Technology</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <h4>2013
+                                    <br>-
+                                    <br>2017
+                                </h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>MAKAUT University, W.B.</h4>
+                                    <h4 class="subheading">B.TECH (IT)</h4>
+                                </div> 
+								<div class="timeline-body">
+                                    <p class="text-muted">Haldia Institute of Technology Haldia ,West Bengal, with over all aggregate of 7.73 cgpa</p>
+                                </div>								
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>2011
+                                    <br>-
+                                    <br>2013
+                                </h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>CBSE Board, Patna</h4>
+                                    <h4 class="subheading">PCM (I, II)</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">International School, Patna, with percentage of aggr 70%</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <h4>2001
+                                    <br>-
+                                    <br>2011
+                                </h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>ICSE Board, Patna.</h4>
+                                    <h4 class="subheading">SSLC</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">SSt. Xavier's High School, Patna, with percentage of 75.4%</p>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- End Education -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Work Experience Section -->
+		
+
+    <!-- Clients -->
+    <div class="clients bg-clients" style="display:none;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="client-logo">
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/1.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/2.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/3.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/4.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/5.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/6.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/1.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/2.png" alt="image"></a>
+                        <a href="#"><img src="../../perfectpixelweb.com/profile/assets/img/client-logos/3.png" alt="image"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Clients -->
+
+    <!-- Contact section -->
+    <section id="contact" class="section-padding">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">Contact</h2>
+                    <h3 class="section-subheading text-dark" style="display:none;">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Contact details -->
+                <div class="col-md-5">
+                    <div class="form-text contactme">
+                        <h4>Details</h4>                        
+                        <p><i class="fa fa-map-marker fa-lg"></i> Patna, Bihar</p>
+                        <p><a href="tel:+917631850198"><i class="fa fa-mobile fa-lg"></i> +91-7631850198</a></p>
+			<p><a href="mailto:nawaid3929@gmail.com"><i class="fa fa-envelope-o"></i> nawaid3929@gmail.com</a></p>
+                    </div>
+                </div>
+		<div class="col-md-7">
+			<div class="col-md-3" style="float: right;">
+				<a class="page-scroll btn btn-white2 wow bounceIn animated animated animated" href="https://drive.google.com/file/d/1cqhV9WTyEJ9Lf6JUSDpu9RG3G8SdTaqJ/view" target="_blank" style="visibility: visible; animation-name: bounceIn;">Download Resume</a>
+			</div>
+			
+			<div class="col-md-3" style="float: right;">
+				<a class="page-scroll btn btn-white2 wow bounceIn animated animated animated" href="mailto:nawaid3929@gmail.com" target="_blank" style="visibility: visible; animation-name: bounceIn;">Hire Me</a>
+			</div>
+    		</div>
+                <!-- End Contact details -->               
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </section>
+    <!-- End Contact section -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container wow fadeIn">
+            <div class="scrollup text-right">
+                <a class="page-scroll" href="#home"><i class="fa fa fa-chevron-up"></i></a>
+            </div>
+            <div class="row">
+                <div class="col-md-5 col-sm-5 text-left copyright-area">
+                    <span class="copyright">All rights reserved &copy; Nawaidur Rahman 2023
+					</span>
+                </div>
+                <!-- Social Icons -->
+                <div class="col-md-7 col-sm-7 text-right">
+                    <ul class="list-inline social-buttons">                        
+			<li><a href="https://www.linkedin.com/in/nawaidur-rahman-20a852113"><i class="fa fa-linkedin"></i></a></li>
+			<li><a href="https://join.skype.com/invite/HCn1XgVZurw0"><i class="fa fa-skype"></i></a></li>
+			<li><a href="https://api.whatsapp.com/send?phone=+917631850198"><i class="fa fa-whatsapp"></i></a></li>
+			    
+                    </ul>
+                </div>
+                <!-- End Social Icons -->
+            </div>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- jQuery -->
+    <script src="jquery-1.12.4.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bootstrap.min.js"></script>
+    <!-- Easing JS -->
+    <script src="jquery.easing.min.js"></script>
+    <!-- Easy Pie Chart JS -->
+    <script src="jquery.easypiechart.js"></script>
+    <!-- Typed JS -->
+    <script src="typed.min.js"></script>
+    <!-- Classie JS -->
+    <script src="classie.js"></script>
+    <!-- Animated Header JS -->
+    <script src="cbpAnimatedHeader.js"></script>
+    <!-- Waypoints JS -->
+    <script src="waypoints.min.js"></script>
+    <!-- Counter up JS -->
+    <script src="jquery.counterup.min.js"></script>
+    <!-- Wow JS -->
+    <script src="wow.min.js"></script>
+    <!-- Owl Carousel JS -->
+    <script src="owl.carousel.min.js"></script>
+    <!-- Contact Form JS -->
+    <script src="jqBootstrapValidation.js"></script>
+    <script src="contact_me.js"></script>
+    <!-- Custom JS -->
+    <script src="scripts.js"></script>
+
+</body>
+
+</html>
